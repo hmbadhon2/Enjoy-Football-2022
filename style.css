@@ -1,0 +1,15 @@
+/* ==============
+===Common css====
+================= */
+body{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+
+}
+.container{
+    width: 1321px;
+    background-color: #f70808;
+}
+.flex-container{
+    display: flex;
+}
